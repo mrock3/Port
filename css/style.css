@@ -8,8 +8,8 @@
 /* Navbar title */
 .navbar-default .navbar-brand {
     color: #042141;
-    font-size: px;
-    font-weight: bold;
+    font-size: 24px;
+    font-weight: lighter;
 }
 
 /* Navbar hover effects */
@@ -36,7 +36,7 @@
     border-radius: 4px;
     border: 1px solid;
     fill: #fff;
-    font-size: 16px;
+    font-size: 2px;
     position: relative;
     margin-right: 10px;
 }
@@ -62,11 +62,7 @@
     border-color: #ebd122;
 }
 
-.portfolio-title {
-    text-align: center
-    color: #fff ;
-    font-size ; 6px;
-    padding-top: 3%;
+
 }
 
 .portfolio-description {}
@@ -120,8 +116,10 @@ a:hover {
 body {
 
     font-family: 'Source Code', monospace;
-    font-size: 5pt
+    font-size: 16px
+    
  inherit;
-    background-color: #042141;
-    color: #fff;
+
+    background-color: #fff;
+    color: #042141;
 }
