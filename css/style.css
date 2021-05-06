@@ -1,0 +1,126 @@
+/***** NAVBAR *****/
+
+.navbar {
+    background-color: #fff;
+    border-radius: 0;
+}
+
+/* Navbar title */
+.navbar-default .navbar-brand {
+    color: #042141;
+    font-size: px;
+    font-weight: bold;
+}
+
+/* Navbar hover effects */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Navbar links */
+.navbar-default .navbar-nav > li > a {
+    color: #042141;
+    font-size: 16px;
+    padding: 10px;
+}
+
+/* Navbar collapsed styles */
+.navbar-toggler {
+    color: #fff;
+    border-color: #fff;
+    background-color: #042141;
+    border-radius: 4px;
+    border: 1px solid;
+    fill: #fff;
+    font-size: 16px;
+    position: relative;
+    margin-right: 10px;
+}
+
+.navbar-toggler:hover,
+.navbar-toggler:focus {
+    background-color: #042141;
+    color: #042141;
+    
+    border-color: #042141;
+
+}
+
+/*** Portfolio pieces ***/
+.portfolio-thumbnail {
+    background-color: #fff;
+    border-color: #042141;
+    border-width: 2px;
+    width: 95%;
+}
+
+.portfolio-thumbnail:hover {
+    border-color: #ebd122;
+}
+
+.portfolio-title {
+    color: #fff ;
+    font-size ; 6px;
+    padding-top: 3%;
+}
+
+.portfolio-description {}
+
+.portfolio-image {}
+
+#about-world {
+    max-height: 200px;
+}
+
+.resume h3 {
+    font-weight: lighter;
+}
+
+hr {
+    border-color: #042141;
+    border-width: 2px;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    color: #042141;
+}
+
+a:hover {
+    color: #ebd122;
+}
+
+.jumbotron {
+    background-color: #042141 ;
+    text-align: center;
+    color: #fff;
+    padding-top: 4%;
+    padding-bottom: 3%;
+    border-radius: 0px;
+}
+
+.jumbotron h2 {
+    font-size: 36px;
+    font-weight: normal;
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto
+}
+
+body {
+
+    font-family: 'Source Code', monospace;
+    font-size: 5pt
+ inherit;
+    background-color: #042141;
+    color: #fff;
+}
