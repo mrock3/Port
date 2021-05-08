@@ -116,6 +116,8 @@ a:hover {
     height: auto
 }
 
+
+
 body {
 
     font-family: 'Source Code', monospace;
@@ -126,3 +128,21 @@ body {
     background-color: #fff;
     color: #042141;
 }
+<style>
+    footer {
+        position:sticky;
+        height: 300px;
+        width: 100%;
+        background-color: #333333;
+    }
+
+    p.copyright {
+        position:;
+        width: 100%;
+        color: #042141;
+        line-height: 40px;
+        font-size: 0.7em;
+        text-align: center;
+        bottom:;
+    }
+</style>
