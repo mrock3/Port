@@ -56,7 +56,7 @@
     background-color: #fff;
     border-color: #042141;
     border-width: 2px;
-    width: 40%;
+    width: 95%;
 }
 
 .portfolio-thumbnail:hover {
@@ -101,12 +101,12 @@ a:hover {
 }
 
 .jumbotron {
-    background-color: #97c5f3 ;
-    text-align: center;
-    color: rgb(12, 12, 19);
+    background-color: #042141 ;
+    text-align: left;
+    color: #fff;
     padding-top: 4%;
     padding-bottom: 3%;
-    
+    border-radius: 5px;
 }
 
 .jumbotron h2 {
