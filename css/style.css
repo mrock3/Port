@@ -71,9 +71,10 @@
 .portfolio-image {}
 
 #about-world {
-    max-height: 290px;
-    margin: 15px 0;
-
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 
